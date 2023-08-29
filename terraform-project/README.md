@@ -1,7 +1,7 @@
 
 # Count Visits Website Project 
 
-- Created a static website which count the users visits with track of the time.
+- Hosted a static website which count the users visits with track of the time.
 
 
 
