@@ -37,7 +37,7 @@ variable "private_subnets" {
 }
 
 variable "instanceType" {
-  default = "t2.small"
+  default = "t2.micro"
 }
 
 variable "ami" {
